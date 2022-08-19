@@ -41,7 +41,7 @@ Clone the repository and change the directory to portfolio
 
 | 👤 Name | Github | Twitter | LinkedIn |
 |------|--------|---------|----------|
-|Hanningtone Monda|[@Hanningtone Monda](https://github.com/safar1212)|[@Hanningtone Monda](https://twitter.com/SafarAli999)|[@Hanningtone Monda](https://www.linkedin.com/in/safar-ali999/)|
+|Hanningtone Monda|[@Hanningtone Monda]()|[@Hanningtone Monda]()|[@Hanningtone Monda]()|
 
 ## 🤝 Contributing
 
